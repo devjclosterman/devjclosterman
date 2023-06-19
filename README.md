@@ -1,5 +1,6 @@
-### Keep your DREAM's Alive! 
+### Keep your DREAM's Alive! Happy Hacking!
 Does anyone want to collabrate on a project? let me know! Message me on LinkedIn.
+
 <!--
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
