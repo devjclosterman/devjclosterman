@@ -1,4 +1,4 @@
-### Keep your DREAM's Alive! Happy Hacking!
+### Keep your DREAM's Alive! 
 Does anyone want to collabrate on a project? let me know! Message me on LinkedIn.
 
 <!--
