@@ -1,5 +1,5 @@
 ### Keep your DREAM's Alive! 
-Does anyone want to collabrate on a project? let me know! Message me on LinkedIn.
+Does anyone want to collabrate on a project? 
 
 <!--
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
