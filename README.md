@@ -1,7 +1,7 @@
 ### Keep your DREAM's Alive! 
 
 My activity during the week is now on my WebMo profile github.com/devjclosterman2023
-rskhgfu rhgiuwrhnfkjwrnclwkj 
+
 <!--
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
