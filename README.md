@@ -2,6 +2,8 @@
 
 My activity during the week is now on my WebMo profile github.com/devjclosterman2023
 
+
+Starting a journey into Salesforce for my Company. I will be posting some apps soon. Start Date: 11/7/23
 <!--
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
