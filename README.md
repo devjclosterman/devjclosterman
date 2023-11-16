@@ -4,7 +4,7 @@ My activity during the week is now on my WebMo profile github.com/devjclosterman
 
 
 Starting a journey into Salesforce for my Company. I will be posting some apps soon. Start Date: 11/7/23
-I Launched My Template for my Portfolio: https://arizonastateuniversity-5e-dev-ed.develop.preview.salesforce-experience.com/jasonclosterman/s/
+I Launched a template for my Portfolio: https://arizonastateuniversity-5e-dev-ed.develop.preview.salesforce-experience.com/jasonclosterman/s/
 <!--
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
