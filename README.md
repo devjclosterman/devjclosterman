@@ -13,7 +13,7 @@ I've just completed a front-end coding challenge from @frontendmentor! 🎉
 You can see my solution here: https://www.frontendmentor.io/solutions/responsive-profile-cards-rAqMAOP1Ya
 
 Any suggestions on how I can improve are welcome!
-<!--
+<!--cheating bro
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
