@@ -1,6 +1,7 @@
 
 # Hi there, I'm Jason Closterman(https://github.com/devjclosterman) 👋
 My activity during the week is now on my WebMo profile github.com/devjclosterman2023
+<br />
 I'm a Developer based in Tucson, Arizona. I'm passionate about Building! 
 
 ## Skills
@@ -24,8 +25,8 @@ I've just completed a front-end coding challenge from @frontendmentor! 🎉
 You can see my solution here: https://www.frontendmentor.io/solutions/responsive-profile-cards-rAqMAOP1Ya
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: youremail@example.com
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jason-closterman/))
+- Email: devjclosterman@gmail.com
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
