@@ -29,7 +29,7 @@ You can see my solution here: https://www.frontendmentor.io/solutions/responsive
 - Email: devjclosterman@gmail.com
 
 ## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjclosterman&show_icons=true&theme=dark)
 
 <style>
 .grid-container {
