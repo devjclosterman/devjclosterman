@@ -14,6 +14,68 @@ I've just completed a front-end coding challenge from @frontendmentor! 🎉
 You can see my solution here: https://www.frontendmentor.io/solutions/responsive-profile-cards-rAqMAOP1Ya
 
 Any suggestions on how I can improve are welcome!
+# Hi there, I'm [Your Name](https://github.com/yourusername) 👋
+
+I'm a [Your Profession] based in [Your Location]. I'm passionate about [Your Interests]. 
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+
+## Projects
+### Project 1
+Description of Project 1
+
+### Project 2
+Description of Project 2
+
+### Project 3
+Description of Project 3
+
+## Get in Touch
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- Email: youremail@example.com
+
+## Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.grid-item {
+  background-color: #f3f4f6;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.grid-item h3 {
+  margin-top: 0;
+}
+</style>
+
+<div class="grid-container">
+  <div class="grid-item">
+    <h3>Project 1</h3>
+    <p>Description of Project 1</p>
+  </div>
+  <div class="grid-item">
+    <h3>Project 2</h3>
+    <p>Description of Project 2</p>
+  </div>
+  <div class="grid-item">
+    <h3>Project 3</h3>
+    <p>Description of Project 3</p>
+  </div>
+</div>
+
 <!--
 **devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
