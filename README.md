@@ -3,9 +3,10 @@
 My activity during the week is now on my WebMo profile github.com/devjclosterman2023
 
 
-Starting a journey into Salesforce for my Company. I will be posting some apps soon. Start Date: 11/7/23
+✨ Starting a journey into Salesforce for my Company. I will be posting some apps soon. Start Date: 11/7/23
 I Launched a template for my Portfolio: https://arizonastateuniversity-5e-dev-ed.develop.preview.salesforce-experience.com/jasonclosterman/s/
 
+✨ Currently learning Python!
 
  🔭 I’m currently working on ...
 I've just completed a front-end coding challenge from @frontendmentor! 🎉
