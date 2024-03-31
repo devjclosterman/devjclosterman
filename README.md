@@ -4,8 +4,8 @@ My activity during the week is now on my WebMo profile github.com/devjclosterman
 <br />
 I'm a Developer based in Tucson, Arizona. I'm passionate about Building! 
 <div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <h3 style="color: #0366d6;">Styled Div</h3>
-  <p style="font-size: 16px;">This is a styled div created using Markdown with inline styles.</p>
+  <h3 style="color: #0366d6;">Hello World!</h3>
+  <p style="font-size: 16px;">Welcome to #IAmCoding's github.</p>
 </div>
 
 ## Skills
