@@ -2,7 +2,7 @@
 # Hi there, I'm Jason Closterman([https://github.com/devjclosterman](https://main--devjclosterman.netlify.app/)) 👋
 My activity during the week is now on my WebMo profile github.com/devjclosterman2023
 <br />
-I'm a Developer based in Tucson, Arizona. I'm passionate about Building! 
+I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff. 
 <div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <h3 style="color: #0366d6; text-align: center;">Hello World!</h3>
   <p style="font-size: 16px; text-align: center;">Welcome to #IAmCoding's github.</p>
@@ -34,25 +34,6 @@ You can see my solution here: https://www.frontendmentor.io/solutions/responsive
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjclosterman&show_icons=true&theme=dark)
-
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-}
-
-.grid-item {
-  background-color: #f3f4f6;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.grid-item h3 {
-  margin-top: 0;
-}
-</style>
 
 <div class="grid-container">
   <div class="grid-item">
