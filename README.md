@@ -4,8 +4,7 @@ My activity during the week is now on my WebMo profile github.com/devjclosterman
 <br />
 I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff. 
 <div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <h3 style="color: #0366d6; text-align: center;">Hello World!</h3>
-  <p style="font-size: 16px; text-align: center;">Welcome to #IAmCoding's github.</p>
+  <p style="font-size: 16px; text-align: center;">Welcome!</p>
 </div>
 
 ## Skills
@@ -19,14 +18,13 @@ I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff.
 ## Projects 
 🔭 I’m currently working on ...
 ### Project 1
-Description of Project 1
+https://chicago-grit.com
 
 ### Project 2
-I Launched a template for my Portfolio: https://arizonastateuniversity-5e-dev-ed.develop.preview.salesforce-experience.com/jasonclosterman/s/
+Webmo is expanding and I am going to be able to work with a designer to starting making and producing pre-made templates; Of course we still do custom templates!
 
 ### Project 3
-I've just completed a front-end coding challenge from @frontendmentor! 🎉
-You can see my solution here: https://www.frontendmentor.io/solutions/responsive-profile-cards-rAqMAOP1Ya
+Everyday I code, but not for me haha!
 
 ## Get in Touch
 - LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jason-closterman/))
@@ -35,20 +33,7 @@ You can see my solution here: https://www.frontendmentor.io/solutions/responsive
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjclosterman&show_icons=true&theme=dark)
 
-<div class="grid-container">
-  <div class="grid-item">
-    <h3>Project 1</h3>
-    <p>Description of Project 1</p>
-  </div>
-  <div class="grid-item">
-    <h3>Project 2</h3>
-    <p>Description of Project 2</p>
-  </div>
-  <div class="grid-item">
-    <h3>Project 3</h3>
-    <p>Description of Project 3</p>
-  </div>
-</div>
+
 
 
 <!--
