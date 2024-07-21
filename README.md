@@ -24,7 +24,7 @@ https://chicago-grit.com
 Webmo is expanding and I am going to be able to work with a designer to starting making and producing pre-made templates; Of course we still do custom templates!
 
 ### Project 3
-Everyday I code, but not for me haha!
+Everyday I code, I am currently building bots with chatGPT-4..exciting!
 
 ## Get in Touch
 - LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jason-closterman/))
