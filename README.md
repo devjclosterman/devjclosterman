@@ -27,7 +27,7 @@ Webmo is expanding and I am going to be able to work with a designer to starting
 Everyday I code, I am currently building bots with chatGPT-4..exciting!
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jason-closterman/))
+- devjclosterman.vercel.app 
 - Email: devjclosterman@gmail.com
 
 ## Stats
