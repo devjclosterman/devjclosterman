@@ -1,5 +1,6 @@
 
-# Hi there, I'm Jason Closterman([https://github.com/devjclosterman](https://main--devjclosterman.netlify.app/)) 👋
+# Hi there, I'm Jason Closterman
+(https://main--devjclosterman.netlify.app/)) 👋
 My activity during the week is now on my WebMo profile github.com/devjclosterman2023
 <br />
 I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff. 
