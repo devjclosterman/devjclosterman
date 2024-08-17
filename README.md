@@ -31,7 +31,6 @@ Everyday I code, I am currently building bots with chatGPT-4..exciting!
 My Website:
 - devjclosterman.vercel.app
 <br>
-or:
 - Email: devjclosterman@gmail.com
 
 ## Stats
