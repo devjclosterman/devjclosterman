@@ -16,8 +16,10 @@ I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff.
 ✨ Git
 ✨ WordPress(PHP)
 
-## Projects 
+
+
 🔭 I’m currently working on ...
+
 ### Project 1
 https://chicago-grit.com
 
