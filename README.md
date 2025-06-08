@@ -1,7 +1,7 @@
 
 # Hi there, I'm Jason Closterman
 (https://main--devjclosterman.netlify.app/)) 👋
-My activity during the week is now on my WebMo profile github.com/devjclosterman2023
+
 <br />
 I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff. 
 <div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
@@ -20,6 +20,8 @@ I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff.
 
 
 🔭 I’m currently working on ...
+A Commander Dashboard... I have so many windows and browsers open and need to check on other things as well, so I am bundling everything into one App.
+May The Force Be With Me, and you To!
 
 ### Project 1
 https://chicago-grit.com
