@@ -27,10 +27,10 @@ May The Force Be With Me, and you To!
 https://chicago-grit.com
 
 ### Project 2
-Webmo is expanding and I am going to be able to work with a designer to starting making and producing pre-made templates; Of course we still do custom templates!
+Launched a website that is not finished, thought I would show the process. Also, I like doing mobile-responsive queries while the site is live, So I can test across all browsers.
 
 ### Project 3
-Everyday I code, I am currently building bots with chatGPT-4..exciting!
+Everyday I code, I am currently building bots with chatGPT-4..exciting! I want to build a Plug-in that is a bot for each company and website. The bot will learn about your company and clients to assist you further.
 
 ## Get in Touch
 My Website:
