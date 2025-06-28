@@ -7,6 +7,7 @@ I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff.
 <div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 16px; text-align: center;">Welcome!</p>
   <p>For the past year, I have been learning LLMs and AI automation, so regretfully, you see a huge gap in my commits. Now that I have sharpened my skills, I will not go a day without a Green Dot! I love coding, so don't judge me. I know how important GitHub is.</p>
+  <p> Yeah I need always remember to get the green dot! #NewHabits</p>
 </div>
 
 ## Skills
@@ -20,8 +21,7 @@ I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff.
 
 
 🔭 I’m currently working on ...
-A Commander Dashboard... I have so many windows and browsers open and need to check on other things as well, so I am bundling everything into one App.
-May The Force Be With Me, and you To!
+Website for Desert Forged Ai  
 
 ### Project 1
 https://chicago-grit.com
