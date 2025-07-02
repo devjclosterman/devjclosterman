@@ -2,6 +2,8 @@
 # Hi there, I'm Jason Closterman
 (https://main--devjclosterman.netlify.app/)) 👋
 
+Coming Soon! DesertForgedAi.com, I am very excited for this release!
+
 <br />
 I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff. 
 <div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
