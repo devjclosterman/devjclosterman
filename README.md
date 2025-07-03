@@ -6,7 +6,7 @@ Coming Soon! DesertForgedAi.com, I am very excited for this release!
 
 <br />
 I'm a Passionate Developer based in Tucson, Arizona. I like Building stuff. 
-<div style="background-color: #f3f4f6; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+<div>
   <p style="font-size: 16px; text-align: center;">Welcome!</p>
   <p>For the past year, I have been learning LLMs and AI automation, so regretfully, you see a huge gap in my commits. Now that I have sharpened my skills, I will do my best to get a Green Dot Every Day! I love coding, so don't judge me. I know how important GitHub is.</p>
   
