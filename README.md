@@ -46,19 +46,28 @@ My Website:
 P.S. Believe your dreams!
 
 
-<!--
-**devjclosterman/devjclosterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://your-logo-url.com/logo.png" width="150"/>
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm Jason Closterman
 
-- 🔭 I’m currently working on ...
+🌵 Arizona-based Full Stack Dev
+🚀 Building [DesertForgedAI.com](https://desertForgedAI.com)
+🧠 Passionate about AI, LLMs, and automation
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+...
+
+## 🚧 Current Projects
+
+### 🔧 DesertForged AI
+_A smart AI assistant trained to help with your biz._
+
+### 💬 Bot Plug-in Framework
+LLM plug-ins for any company or site. Coming soon.
+
 ![github-vscode-logo-light](https://github.com/devjclosterman/devjclosterman/assets/129931920/a7b6d6de-f229-4f12-8051-4d97f3fd4364)
