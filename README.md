@@ -29,7 +29,7 @@ Website for Desert Forged Ai
 https://chicago-grit.com
 
 ### Project 2
-Launched a website that is not finished, thought I would show the process. Also, I like doing mobile-responsive queries while the site is live, So I can test across all browsers.
+Launched a website that is not finished, and I will show the process. Also, I like doing mobile-responsive queries while the site is live, so I can test across all browsers.
 
 ### Project 3
 Everyday I code, I am currently building bots with chatGPT-4..exciting! I want to build a Plug-in that is a bot for each company and website. The bot will learn about your company and clients to assist you further.
