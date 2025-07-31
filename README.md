@@ -10,7 +10,7 @@ I'm a Passionate Developer based in Tucson, Arizona. I like building stuff.
   <p style="font-size: 16px; text-align: center;">Welcome!</p>
   <p>For the past year, I have been learning LLMs and AI automation, so regretfully, you see a gap in my commits. Now that I have sharpened my skills, I will do my best to get a Green Dot Every Day! I love coding, tech is so broad, and there is much to learn. I know how important GitHub is.</p>
   
-
+<div></div>
 </div>
 ## Skills
 ✨ HTML
