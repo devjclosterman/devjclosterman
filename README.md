@@ -4,7 +4,7 @@
 
 Coming Soon! DesertForgedAi.com, I am very excited for this release!
 
-<p></p>
+
 I'm a Passionate Developer based in Tucson, Arizona. I like building stuff. 
 <div>
   <p style="font-size: 16px; text-align: center;">Welcome!</p>
