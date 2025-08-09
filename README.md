@@ -25,7 +25,7 @@ I'm a Passionate Developer based in Tucson, Arizona. I like building stuff.
 Website for Desert Forged Ai  
 
 ### Project 1
-https://chicago-grit.com
+We’ll be constantly improving our customizable bot—the one you get when you purchase a website from DesertForgedAI.com
 
 ### Project 2
 Launched a website that is not finished, and I will show the process. Also, I like doing mobile-responsive queries while the site is live, so I can test across all browsers.
