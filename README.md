@@ -2,9 +2,6 @@
 # Hi there, Welcome to #IAmCoding's GitHub
 desertforgedai.com 👋
 
-Coming Soon! DesertForgedAi.com, I am very excited for this release!
-
-
 I'm a Passionate Developer based in Tucson, Arizona. I like building stuff. 
 <div>
   <p style="font-size: 16px; text-align: center;">Welcome!</p>
