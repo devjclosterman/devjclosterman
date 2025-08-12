@@ -25,10 +25,10 @@ Website for Desert Forged Ai
 We’ll be constantly improving our customizable bot—the one you get when you purchase a website from DesertForgedAI.com
 
 ### Project 2
-Launched a website that is not finished, and I will show the process. Also, I like doing mobile-responsive queries while the site is live, so I can test across all browsers.
+Crypto Utility Token
 
 ### Project 3
-Everyday I code, I am currently building bots with chatGPT-4..exciting! I want to build a Plug-in that is a bot for each company and website. The bot will learn about your company and clients to assist you further.
+Everyday I code, I am currently building bots with chatGPT-5.., I want to build a Plug-in that is a bot for each company and website. The bot will learn about your company and clients to assist you further.
 
 ## Get in Touch
 My Website:
