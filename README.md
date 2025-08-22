@@ -1,4 +1,3 @@
-<p>
 # Hi there, Welcome to #IAmCoding's GitHub
 desertforgedai.com 👋
 
