@@ -1,5 +1,5 @@
 # Hi there, Welcome to #IAmCoding's GitHub
-<a href="https://desertforgedai.com">[👋](https://desertforgedai.com)</a>
+<a href="https://desertforgedai.com">https://desertforgedai.com</a>
 
 I'm a Passionate Developer based in Tucson, Arizona. I like building stuff. 
 
