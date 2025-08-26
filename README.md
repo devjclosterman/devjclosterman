@@ -1,46 +1,52 @@
-# Hi there, Welcome to #IAmCoding's GitHub
-<a href="https://desertforgedai.com">https://desertforgedai.com</a>
+🚀 Welcome to Desert Forged AI on GitHub
 
-I'm a Passionate Developer based in Tucson, Arizona. I like building stuff. 
+<a href="https://desertforgedai.com" target="_blank">🌐 desertforgedai.com</a>
 
-  <p style="font-size: 16px; text-align: center;">Welcome!</p>
-  <p>For the past year, I have been learning LLMs and AI automation, so regretfully, you see a gap in my commits. Now that I have sharpened my skills, I will do my best to get a Green Dot Every Day! I love coding, tech is so broad, and there is much to learn. I know how important GitHub is.</p>
-<div></div>
-</div>
-## Skills
-✨ HTML
-✨ CSS
-✨ JavaScript
-✨ Python
-✨ Git
-✨ WordPress(PHP)
+I’m Jason Closterman, founder of Desert Forged AI, based in Tucson, Arizona.
+I’m passionate about building AI-powered tools, modern websites, and automation systems that help businesses grow.
 
+Over the last year, I’ve been deep into LLMs, AI automation, and plugin development. Now, Desert Forged AI is officially live—and this repo is where we’re pushing the future of bots, dashboards, and websites.
 
+<p style="font-size: 16px; text-align: center;">Thanks for stopping by—let’s build something amazing.</p>
+🛠️ Skills
 
-🔭 I’m currently working on ...
-Website for Desert Forged Ai  
+✨ HTML, CSS, JavaScript
+✨ Python (AI, automation, backend)
+✨ PHP & WordPress (custom plugins/themes)
+✨ Git & GitHub workflows
+✨ AI/LLMs (OpenAI, LLaMA, FastAPI backends)
 
-### Project 1
-We’ll be constantly improving our customizable bot—the one you get when you purchase a website from DesertForgedAI.com
+🔭 Current Focus
 
-### Project 2
-Crypto Utility Token
+Desert Forged AI Websites – Modern, SEO-ready sites with built-in AI bots.
 
-### Project 3
-Everyday I code, I am currently building bots with chatGPT-5.., I want to build a Plug-in that is a bot for each company and website. The bot will learn about your company and clients to assist you further.
+Custom WordPress Plugin – Our in-house chatbot plugin with analytics, lead capture, and short-term memory.
 
-## Get in Touch
-My Website:
-desertforgedai.com
-<br>
-- Email: devjclosterman@gmail.com
+AI Automation Projects – Scaling bots that learn about each client’s company and customers.
 
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjclosterman&show_icons=true&theme=dark)
+Crypto + Utility Experiments – Exploring ways to merge AI with token utilities.
 
-P.S. Believe your dreams!
+🚧 Featured Projects
+🤖 Project 1: The Desert Forged AI Chatbot
 
+Every client site comes with a customizable AI bot—trained to engage users, capture leads, and grow with the business.
 
+📊 Project 2: AI Admin Dashboard
 
+A command center for website owners to see analytics, export logs, and manage their bots in real-time.
 
-![github-vscode-logo-light](https://github.com/devjclosterman/devjclosterman/assets/129931920/a7b6d6de-f229-4f12-8051-4d97f3fd4364)
+🔗 Project 3: AI Plugins & Integrations
+
+Expanding our bot ecosystem—plugins tailored for businesses, capable of learning company knowledge and serving customers intelligently.
+
+📬 Get in Touch
+
+🌐 Website: desertforgedai.com
+
+📧 Email: devjclosterman@gmail.com
+
+💼 LinkedIn: linkedin.com/in/jason-closterman
+
+📊 GitHub Stats
+
+✨ At Desert Forged AI, we believe tech should empower—not overwhelm. This is just the beginning.
