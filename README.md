@@ -49,4 +49,6 @@ Expanding our bot ecosystem—plugins tailored for businesses, capable of learni
 
 📊 GitHub Stats
 
+![GitHub Stats](https://your-deployed-url/api?username=devjclosterman&show_icons=true&theme=dark)
+
 ✨ At Desert Forged AI, we believe tech should empower—not overwhelm. This is just the beginning.
