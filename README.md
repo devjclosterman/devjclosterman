@@ -41,11 +41,10 @@ Expanding our bot ecosystem—plugins tailored for businesses, capable of learni
 
 📬 Get in Touch
 
-🌐 Website: desertforgedai.com
 
-📧 Email: devjclosterman@gmail.com
-
-💼 LinkedIn: linkedin.com/in/jason-closterman
+- 🌐 Website: [desertforgedai.com](https://desertforgedai.com)  
+- 📧 Email: [devjclosterman@gmail.com](mailto:devjclosterman@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jason-closterman](https://linkedin.com/in/jason-closterman) 
 
 📊 GitHub Stats
 
