@@ -52,3 +52,5 @@ Expanding our bot ecosystem—plugins tailored for businesses, capable of learni
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjclosterman&show_icons=true&theme=dark)
 
 ✨ At Desert Forged AI, we believe tech should empower—not overwhelm. This is just the beginning.
+
+![github-vscode-logo-light](https://github.com/devjclosterman/devjclosterman/assets/129931920/a7b6d6de-f229-4f12-8051-4d97f3fd4364)
