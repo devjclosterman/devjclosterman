@@ -8,7 +8,7 @@ I’m passionate about building AI-powered tools, modern websites, and automatio
 Over the last year, I’ve been deep into LLMs, AI automation, and plugin development. Now, Desert Forged AI is officially live—and this repo is where we’re pushing the future of bots, dashboards, and websites.
 
 <p style="font-size: 16px; text-align: center;">Thanks for stopping by—let’s build something amazing.</p>
-🛠️ Skills
+🛠️ Skills:
 
 ✨ HTML, CSS, JavaScript
 ✨ Python (AI, automation, backend)
