@@ -9,7 +9,7 @@ Over the last year, I’ve been deep into LLMs, AI automation, and plugin develo
 
 <p style="font-size: 16px; text-align: center;">Thanks for stopping by—let’s build something amazing.</p>
 🛠️ Skills:
-
+<ul></ul>
 ✨ HTML, CSS, JavaScript
 ✨ Python (AI, automation, backend)
 ✨ PHP & WordPress (custom plugins/themes)
