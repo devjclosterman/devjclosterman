@@ -16,7 +16,7 @@ Over the last year, I’ve been diving deep into LLMs, AI automation, and plugin
 ✨ Git & GitHub workflows
 ✨ AI/LLMs (OpenAI, LLaMA, FastAPI backends)
 
-🔭 Current Focus:
+🔭 Current Focus
 
 Desert Forged AI Websites – Modern, SEO-ready sites with built-in AI bots.
 
@@ -26,7 +26,7 @@ AI Automation Projects – Scaling bots that learn about each client’s company
 
 Crypto + Utility Experiments – Exploring ways to merge AI with token utilities.
 
-🚧 Featured Projects:
+🚧 Featured Projects
 🤖 Project 1: The Desert Forged AI Chatbot
 
 Every client site comes with a customizable AI bot—trained to engage users, capture leads, and grow with the business.
