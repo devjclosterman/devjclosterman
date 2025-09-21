@@ -1,5 +1,7 @@
 🚀 Welcome to Desert Forged AI on GitHub
 
+
+
 <a href="https://desertforgedai.com" target="_blank">🌐 desertforgedai.com</a>
 
 I’m Jason Closterman, founder of Desert Forged AI, based in Tucson, Arizona.
@@ -7,7 +9,7 @@ I’m passionate about building AI-powered tools, modern websites, and automatio
 
 Over the last year, I’ve been diving deep into LLMs, AI automation, and plugin development. Now, Desert Forged AI is officially live—and this repo is where we’re pushing the future of bots, dashboards, and websites.
 
-<p style="font-size: 16px; text-align: center;">Thanks for stopping by—let’s build something amazing.</p>
+<p style="font-size: 16px; text-align: center;">Thanks for stopping by—let’s build something amazing!</p>
 🛠️ Skills:
 <ul></ul>
 ✨ HTML, CSS, JavaScript
