@@ -17,7 +17,7 @@ Over the last year, I’ve been diving deep into LLMs, AI automation, and plugin
 ✨ PHP & WordPress (custom plugins/themes)
 ✨ Git & GitHub workflows
 ✨ AI/LLMs (OpenAI, LLaMA, FastAPI backends)
-
+<b>
 🔭 Current Focus
 
 Desert Forged AI Websites – Modern, SEO-ready sites with built-in AI bots.
